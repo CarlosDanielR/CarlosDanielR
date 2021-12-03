@@ -22,7 +22,7 @@
   <!--<a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <!--<a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>-->
- <a href="https://discord.com/channels/@mehttps://outlook.live.com/mail/0/inbox/id/AQQkADAwATYwMAItZjVmNi03NGEzLTAwAi0wMAoAEAAevxMwdrANToiXlL3wbaqw" target="_black"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_black"></a> 
+ <a href="https://discord.com/channels/@mehttps://outlook.live.com/mail/0/inbox/id/AQQkADAwATYwMAItZjVmNi03NGEzLTAwAi0wMAoAEAAevxMwdrANToiXlL3wbaqw" target="_black"></a><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_black"></a> 
   <a href = "https://outlook.live.com/mail/0/inbox/id/AQQkADAwATYwMAItZjVmNi03NGEzLTAwAi0wMAoAEAAevxMwdrANToiXlL3wbaqw"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_black"></a>
   
  
